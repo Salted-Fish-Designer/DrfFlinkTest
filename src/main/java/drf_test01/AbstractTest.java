@@ -6,6 +6,7 @@ public abstract class AbstractTest {
         System.out.println("second");
         System.out.println("third");
         System.out.println("TestBranch");
+        System.out.println("hhahahaha");
     }
 
 }
